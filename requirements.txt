@@ -4,3 +4,7 @@ Get Method
 Post Method
 Put Method
 Delete Method
+Create Method
+Read Method
+Update Method
+Delete Method
